@@ -22,3 +22,5 @@ You can navigate into the branchs of that git, to go to the version wanted
 * Italy confirmed and dead predict optmized
 * Sweden confirmed and dead predict optmized
 * more graph for analisys
+# License
+[MIT](https://choosealicense.com/licenses/mit/)
