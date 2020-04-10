@@ -9,8 +9,8 @@ however it can provide a basis for what lies ahead.\
 [Portuguese Colab ](https://colab.research.google.com/drive/1XLlsxideUs9fW70iAguKt_t4kq_eeW_0)
 # Archives
 The beta version is the "brute" archive, when it´s the gridsearch, and a practically unreadable code mix.
-the tag [PT] represent portuguese version of the code, the [EN] version is on working 
-to se the archives, navigate into the branchs of that git, and go to the version wanted
+the tag [PT] represent portuguese version of the code, the [EN] version is on working\
+You can navigate into the branchs of that git, to go to the version wanted
 # Versions
 ## launched versions
 * v1.0 -> initial version
