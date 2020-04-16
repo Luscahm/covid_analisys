@@ -9,7 +9,7 @@ to learn more about this computing area, doing a small data analisys and trying 
 virus don´t depends only on mathematical and statistical progress to spread,but  also depends of the human factor (quarantine
 and medicines) and also that I am neither a statistician nor a data scientist,these predictions may not be correct
 however it can provide a basis for what lies ahead.\
-[Portuguese Colab ](https://colab.research.google.com/drive/1XLlsxideUs9fW70iAguKt_t4kq_eeW_0)\
+[Portuguese Colab ](https://bit.ly/2y04JMS)\
 [English Colab](https://bit.ly/2yWgCE7)
 # Archives
 The beta version is the "brute" archive, when it´s the gridsearch, and a practically unreadable code mix.
