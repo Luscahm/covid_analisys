@@ -24,11 +24,15 @@ You can navigate into the branchs of that git, to go to the version wanted
 * v1.1:\
 ->English version\
 ->Brazilian dead predict optimized
+* v2.0:\
+-> US predicts optimized\
+-> Improvement in some graphics\
+-> New Graphics\
+-> Improvement in the results presentation tables\
+-> Added "About Me" section
 ## Future versions
 
-* EUA confirmed and dead predict optmized
 * Italy confirmed and dead predict optmized
 * Sweden confirmed and dead predict optmized
-* more graph for analisys
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
