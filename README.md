@@ -25,21 +25,21 @@ You can navigate into the branchs of that git, to go to the version wanted
 ->English version\
 ->Brazilian dead predict optimized
 * v2.0:\
-->Improvement in some graphics
-->New Graphics
-->Improvement in the results presentation tables
-->Improved forecasting of cases and deaths in the USA
+->Improvement in some graphics\
+->New Graphics\
+->Improvement in the results presentation tables\
+->Improved forecasting of cases and deaths in the USA\
 ->Added "About Me" section
 * v3.0:\
-->Improvements in some graphics
-->"Bar Chart race" views
-->log-scale graph for evolution of deaths and cases
-->mortality chart
-->graph of new cases per day
-->chart of new deaths per day
-->Change of the prediction algorithm for death and cases in all countries
-->More graphics
-->Added Introduction
+->Improvements in some graphics\
+->"Bar Chart race" views\
+->log-scale graph for evolution of deaths and cases\
+->mortality chart\
+->graph of new cases per day\
+->chart of new deaths per day\
+->Change of the prediction algorithm for death and cases in all countries\
+->More graphics\
+->Added Introduction\
 ->Bug fixes
 
 
