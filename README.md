@@ -42,6 +42,28 @@ You can navigate into the branchs of that git, to go to the version wanted
 ->Added Introduction\
 ->Bug fixes
 
+* v4.0:\
+-> Change from "forecast" to "Analysis and forecast"
+-> Improvements in some graphics
+-> Changing from matplotlib to pyplot
+-> Removing some graphics
+-> detailed graphics for Brazil
+   -> General Brazil
+   ->state of São Paulo
+       ->DSR VII- Campinas
+       ->DSR III- São Carlos / Araraquara
+           ->Sanca vs Sumaré
+       ->DSR I- Grande Sp
+       ->DSR IV- Baixada Santista
+   ->state of Minas Gerais
+       ->Belo Horizonte/Caete/Nova Lima
+       ->Uberlândia/Araguari 
+       ->Juiz de Fora/Lima Duarte/ Bom Jardim Minas
+       ->Guaxupé
+   ->state of Amazonas
+       * Região de Manaus
+       * Região de Barcelos 
+
 
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
