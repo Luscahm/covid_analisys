@@ -61,8 +61,8 @@ You can navigate into the branchs of that git, to go to the version wanted
        ->Juiz de Fora/Lima Duarte/ Bom Jardim Minas\
        ->Guaxupé\
    ->state of Amazonas\
-       * Região de Manaus\
-       * Região de Barcelos\ 
+       ->Região de Manaus\
+       ->Região de Barcelos
 
 
 # License
